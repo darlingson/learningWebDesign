@@ -1,2 +1,2 @@
 # learningWebDesign
-What I kearn in web design
+What I learn in web design
