@@ -1,0 +1,13 @@
+- most ui color have :
+	1. brand colors eg facebook's blue, used on buttons, links and navigation and icons
+	2. supporting colours are used when catching user attention eg error messages and information dialogs
+	3. neutral colors, backgrounds, borders and secondary buttons
+
+Process
+1. Choose brand color
+	- unlikely to change
+	- check out color hunt
+2. Choose supporting
+	- green for success
+	- red for error
+	- yellow for warning
