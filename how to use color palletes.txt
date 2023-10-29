@@ -1,0 +1,8 @@
+- color need to be used in context
+- use the 60/30/10
+- group together neutrals
+- figure out what color work well together, by coming with color rules
+	- base  on readability
+		- use accent for link/call to action
+		- use accent color for button
+		- contrast
